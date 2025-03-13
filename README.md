@@ -7,7 +7,11 @@ Other improvements could include reducing the parts count.
 
 TODO insert schematic 
 
-![Breadboard implementation of the oscillator](https://github.com/user-attachments/assets/ff7d9275-d18b-4742-9ae0-bca2142eb578)
+Breadboard implementation of the oscillator:
 
-![Output spectrum of the oscillator](https://github.com/user-attachments/assets/509e98c0-9220-42a1-af1e-bb87e8e6b895)
+<img src="https://github.com/user-attachments/assets/ff7d9275-d18b-4742-9ae0-bca2142eb578" alt="Breadboard implementation of the oscillator" rotate="180" width="700"/>
+
+Output spectrum of the oscillator:
+
+<img src="https://github.com/user-attachments/assets/509e98c0-9220-42a1-af1e-bb87e8e6b895" alt="Breadboard implementation of the oscillator" width="700"/>
 
