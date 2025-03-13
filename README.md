@@ -5,5 +5,9 @@ My implementation modifies the classic design by replacing the light bulb for a 
 The frequency for now is rather random (it was determined by the components I had lying around) but I intend to set it to something more useful in the future
 Other improvements could include reducing the parts count.
 
-![image](https://github.com/user-attachments/assets/509e98c0-9220-42a1-af1e-bb87e8e6b895)
+TODO insert schematic 
+
+![Breadboard implementation of the oscillator](https://github.com/user-attachments/assets/ff7d9275-d18b-4742-9ae0-bca2142eb578)
+
+![Output spectrum of the oscillator](https://github.com/user-attachments/assets/509e98c0-9220-42a1-af1e-bb87e8e6b895)
 
